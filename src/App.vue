@@ -1,13 +1,8 @@
 <template>
   <div id="app">
 
-<<<<<<< HEAD
-    <h1>My Gen AI App</h1>
+    <h1>Mlops and llmops</h1>
 	<h2>Upload your data to get predictions</h2>
-=======
-    <h1> Psitron My Gen AI App</h1>
-	<h2>Upload your data to get Gen Ai predictions</h2>
->>>>>>> d91c872bdd6599ed84896c21f4b665a2319cfa18
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
